@@ -56,6 +56,6 @@ To delete a bucket, you must retype the bucket name. This policy is implemented 
 ![Screenshot 28](link-to-screenshot-28)
 ![Screenshot 29](link-to-screenshot-29)
 
-## Conclusion
+## Result
 
 This lab provided an introduction to using Amazon S3 for cloud storage, including creating buckets, uploading files and folders, managing objects, and deleting buckets.
